@@ -94,3 +94,6 @@ CHANGELOG.ignore.md
 # Python bytecode files
 __pycache__/
 *.pyc
+
+# glm-hybrid-router 插件本地运行时产物
+.glm-router/
